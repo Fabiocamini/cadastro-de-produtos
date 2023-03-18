@@ -14,7 +14,7 @@ Agora eu vou escrever um código em html para testar:
 <!doctype html>
 <html>
  <head>
-   <meta charset+"utf-8"?>
+  <meta charset+"utf-8"?>
    <title>Sistema<?title>
  </head>
  <body>
@@ -22,3 +22,11 @@ Agora eu vou escrever um código em html para testar:
  </body>
 </html>
 ```
+
+## Utilidades do arquivo README.md
+
+* Descrição do seu projeto
+* Funcionalidades
+* Como os usuários devem usar
+* Onde os usuários podem encontrar ajuda sobre o projeto
+* Autores do projeto
